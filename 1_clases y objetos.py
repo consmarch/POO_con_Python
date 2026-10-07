@@ -17,3 +17,4 @@ print(Celular2.modelo) # Galaxy S10
 
 print("Trabajo Práctico Integrador")
 print("Modificación realizada por Cons")
+print("Nueva funcionalidad agregada para el TP")
