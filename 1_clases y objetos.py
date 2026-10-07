@@ -14,3 +14,6 @@ Celular2 = Celular()
 
 print(Celular1.marca) # Samsung
 print(Celular2.modelo) # Galaxy S10
+
+print("Trabajo Práctico Integrador")
+print("Modificación realizada por Cons")
